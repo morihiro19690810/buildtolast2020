@@ -1,0 +1,255 @@
+AUTHOR: Hironobu Mori
+TITLE: 在宅勤務 / Work from Home
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 1
+ALLOW PINGS: 0
+PRIMARY CATEGORY:
+CATEGORY: 在宅勤務
+DATE: 04/19/2020 14:09:10
+-----
+BODY:
+<div>2020年度は、突然の長期在宅勤務指示で幕を開けることとなりました。</div>
+<div>普段は音楽制作用に使用しているデスクを、急遽在宅勤務用に改装します。</div><div>こちらが、改装前</div><div><a href="http://morihiro.sakura.ne.jp/sblo_files/build2020/image/studio.jpg" target="_blank"><img src="http://morihiro.sakura.ne.jp/sblo_files/build2020/image/studio-thumbnail2.jpg" alt="studio.jpg" width="320" height="240" border="0" /></a></div>
+<div>こちらが、改装後です。</div><div><a href="http://morihiro.sakura.ne.jp/sblo_files/build2020/image/desktop.jpg" target="_blank"><img src="http://morihiro.sakura.ne.jp/sblo_files/build2020/image/desktop-thumbnail2.jpg" alt="desktop.jpg" width="320" height="240" border="0" /></a></div>
+
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+--------
+AUTHOR: Hironobu Mori
+TITLE: オンラインホワイトボード（Miro)
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 1
+ALLOW PINGS: 0
+PRIMARY CATEGORY:
+CATEGORY: 在宅勤務
+DATE: 04/26/2020 00:00:00
+-----
+BODY:
+在宅勤務を始める前は全く使ったこともないが、在学勤務は連日活躍するようになったのが、オンラインホワイトボード。私の部署では「Miro」(https://www.miro.com)を使っている。オフィスでは、会議室にこもり、白板にいろいろ書き込みながらブレーンストーミングをするというのが、特にこの４月期初にはよくある風景だが、その代わりに今は、Zoomでビデオ会議をしながら、オンラインホワイトボードにいろいろみんなで書き込みながらブレインストーミングをしている。
+実際につかってみてわかったことは、
+会議室の白板ではマーカーを使って手書きをするので、オンラインでは手書きが難しいのでうまくいくのかどうか最初は疑いを感じていた。しかし実際には、オンライン上で図形を描いてそこに字を書き込んだりということが、キーボードとマウスだけで簡単にできるようよく工夫されている。しかも自分が描いたものがすぐに他の人と共有されるので、まるで実際に会議室で白板にみんなで寄ってたかって書き込んでいるかのようである。
+
+なお、上記に紹介した「Miro」という名称、美術好きの人はピンと来たかもしれないが、名前の由来は、もちろんあのワクワク感あふれる絵で有名な画家「ジョアン・ミロ」である。
+https://miro.com/blog/features/realtimeboard-is-now-miro/
+もともとこの会社は「Realtimeboard Inc.」というベタすぎる社名であったが、ブランディング戦略として名称変更し、ミロの絵のような楽しさ、創造性、伸びやかさをユーザーの仕事にもたらす、というコンセプトを打ち立てている。
+
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+--------
+AUTHOR: Hironobu Mori
+TITLE: WIKI（Confluence）
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 1
+ALLOW PINGS: 0
+PRIMARY CATEGORY:
+CATEGORY: 在宅勤務
+DATE: 05/10/2020 00:00:00
+-----
+BODY:
+在宅勤務で新しく使い始めたツールの紹介、第２弾。
+「Confluence」という情報共有ツールを使い始めた。
+https://www.atlassian.com/ja/software/confluence
+
+これは、「社内WIKI」と呼ばれるツールで、皆さん「Wikipedia」はご存知だと思うが、Wikipediaというのは、
+Wiki（ウィキ）＋Pedia(百科事典）からなる造語で、ではWikiとは何かというと「多数のユーザーが直接編集できるWebサイト」のことを指す
+（参考：Wikipediaによる「Wiki」の説明）
+https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD
+
+誰かひとりが書くのではなく、みんなで共同で書く、編集する。Wikipediaは、不特定多数の人が執筆、編集する世界中に公開された百科事典ということになるが、「社内WIKI」は、社内（部署内）で共有すべき情報を、部署内の人が共同で執筆し、編集し、閲覧して共有できるツールである。私の部署は４月に新しくできた部署なので、メンバーの自己紹介や、新しく入社する人のための社内システムのセットアップ方法の説明や、営業活用や採用活動の進捗状況、サービス提供に必要な技術資料などの執筆、編集、閲覧に使っている。
+
+今までこうした内容は、Word, Excel, Powerpointなどで作成し、ファイルサーバーに保管していたが、そもそもどこに何があるか探しにくかったり、誰かが作成して、みんながチェックして修正しなければいけないときにどれが最新だかわからなくなったりということがよくあった。特にリモートワークで「この資料見てください」「ここわからないので書いてもらえませんか」等のちょっとしたやりとりがしにくくなっている状況では、非常に便利なツールである。
+
+なお、このツールを提供している、Attlasianという会社は、IT業界では多少珍しい、オーストラリアに本社がある会社で、他にも、Jira（プロジェクト課題管理）、BitBucket（ソースコード管理）などソフトウエア開発者向けのツールでは名前が知れている。Nasdaqに上場しており、証券コード(Ticker Symbol)は「TEAM」チームワークを支える会社、ということを表そうとしたのでしょう。
+
+
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+--------
+AUTHOR: Hironobu Mori
+TITLE: オンライン会議（Zoom）
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 1
+ALLOW PINGS: 0
+PRIMARY CATEGORY:
+CATEGORY: 在宅勤務
+DATE: 06/07/2020 00:00:00
+-----
+BODY:
+在宅勤務ツール紹介ということで、今まで多少世間一般的にはマイナーと思われるツールを先に紹介して参りましたが、もちろん、メジャーなものも徹底活用しています、ということで、最近いちやく流行語レベルになってしまった「Zoom会議」も連日、やっています。Zoomについては、会社でも標準のオンライン会議ツールとして利用しているだけでなく、プライベートでも、IT業界以外のお友達からも「Zoom飲み会やりましょう」とか、私の所属する東京都中小企業診断士協会（https://www.santama-smeca.jp/）の会合もほぼすべてZoom会議に。Zoom会議のアイスブレイクは「Zoomってどうよ？」と、まるで20年前に、ExcelやPowerpointの使い方の情報交換が挨拶代わりになったのを彷彿とさせる盛り上がりです。
+
+Zoomに関しては突然超有名になって世の中にコンテンツが溢れているので、ふつうのコトを書くのはやめて、私なりのトピックをご提供したいと思います。
+私は、長年アマチュアミュージシャンをしておりますが(http://morihiromusic.com)、楽器業界に「ズーム」という会社があります。(https://zoomcorp.com/ja/jp/)　1990年代に当時アナログからデジタルにシフトしつつあった電子楽器のトレンドに乗り、安価なデジタルエフェクタやレコーダー等のヒット商品を連発して急成長した会社です。今では東証JASDAQに上場していますが、名前が同じゆえの勘違いがあるとかないとか。。。
+https://nlab.itmedia.co.jp/nl/articles/2006/05/news153.html
+
+勘違いの根は深くて
+デジタル機器で音声を扱う際に、「レイテンシ（遅延）を低くする」というのが大事なんです。昔の国際電話やオンライン会議で、こちらがしゃべった声が相手に届くまでに時間がかかる＝レイテンシ（遅延）が高い、と、会話が間延びしてしまうので、できるだけレイテンシが低いほうが良い。しかしレイテンシを低くするというのはデジタル信号処理をそれだけ素早く行うということなのでコンピュータへの負荷が上がるので技術的には難しい、みたいなお題があるのですが、
+オンライン会議のZoomは「レイテンシが低い」ことを当然ながらセールスポイントにしています。
+https://zoom.us/audioplan
+Designed with noise cancellation and for low latency, 85% of Zoom meeting attendees use VoIP. 
+
+一方、日本のズーム社も、「レイテンシ」が低いことで有名な製品があります。
+https://www.dtmstation.com/archives/52019095.html
+
+そんなわけで、先日、会社の音楽部の人と雑談しているときに
+「Zoomって、レイテンシ低くていいよね。会話がスムーズにできる。」
+「そうですよね、歌っていてもそれほど違和感ないですよね。」
+「んん？？」
+どちらのZoomにあてはめても成り立つ微妙な会話になってしまったのでした～
+
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+--------
+AUTHOR: Hironobu Mori
+TITLE: 在宅勤務になってから調達したハードウエア
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 1
+ALLOW PINGS: 0
+PRIMARY CATEGORY:
+CATEGORY: 在宅勤務
+DATE: 07/26/2020 00:00:00
+-----
+BODY:
+在宅勤務も長期戦になることが確実視される今日このごろです。いつくか紹介してきたように、クラウドサービスを活用して在宅で仕事をする工夫は、組織を上げて行って来ました。
+一方で、ハードウエアという面で、４月に在宅勤務を開始してから「今まで持っていたけれど仕事につかうという面で脚光をあびたもの」「新しく買ったもの」を紹介したいと思います。
+
+１．ワイヤレスイヤホン
+音楽を聞くのは大好きなので今までもワイヤレスイヤホンはずっと使っていました。しかし今では音楽を聞いている時間より、仕事の会話をしている時間のほうが長くなりました。音楽を聞くために使っていた頃は「別にワイヤレスイヤホンにマイクなんてついていなくてもよいのに」とずっと思っていましたが、ここに来てマイクが付いていることのありがたみを今更ながら感じております。
+
+２．クロマキーカーテン
+Zoom会議が流行しだしてからは、誰も彼もが「バーチャル背景」を使うようになりました。私はミュージシャンであり音響技術には多少の造詣があるものの映像技術は全くの素人なのでここでは解説省略しますが、背景に緑色のカーテン（クロマキーカーテン）を使うと、私のように何年も前の古いPCを使ってZoom会議をしても、背景がキレイに写ります。もともと、ミュージックビデオを制作しようとして以前からカーテンを買っておきながら使わずじまいでしたが、連日Zoom会議をするようになってからまさかの大活躍と相成りました。
+
+３．クリップ式カメラレンズ
+私のノートPCは古いのでWebカメラは画角（映像が映る範囲の広さ、幅）は固定です。これがまた微妙で、オフィスの会議室で何人かがテーブルを囲んで、というときには、全員がカメラに収まらない（画角が狭すぎる）、一方で、自宅のデスクで使うと、まわりの家具やがらくたが写り込んでしまう（画角が広すぎる）、というどっちつかずの課題がありました。
+そのため、クリップで取り付けて画角を変えられるレンズを新しく買いました。画角が狭くなるもの（２倍望遠）、と、画角が広くなるもの（０．４倍）を持っておくことで、自宅とオフィス両方でカメラの視野を適切に調整できるようになりました。
+
+
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+--------
+AUTHOR: Hironobu Mori
+TITLE: チャットツール(Slack)
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 1
+ALLOW PINGS: 0
+PRIMARY CATEGORY:
+CATEGORY: 在宅勤務
+DATE: 08/09/2020 00:00:00
+-----
+BODY:
+在宅勤務をする前から使っている人はとことん使っているのがチャットツールだと思います。
+私も今まで仕事では
+Tocaro(https://tocaro.im/)
+Microsoft Teams(https://www.microsoft.com/ja-jp/microsoft-365/microsoft-teams/group-chat-software)
+Slack(https://slack.com/)
+プライベートでは
+Line(https://line.me/ja/)
+Facebook(Messsenger)(https://www.messenger.com/)
+などいろいろ使ってきましたが、いま当部署で一番使っているのはSlackです。
+
+技術者にとっては既に常識レベルのツールなので、私がここで解説することもありませんが「Slack」という言葉の意味が気になって、調べてみました。
+
+英和辞書で「Slack」と引くと
+https://eow.alc.co.jp/search?q=slack
+「たるんだ」「のろい」「怠惰」など、ビジネス用チャットツールの名称としては全く不可思議な意味ですが、こんな記事がありました。
+https://www.businessinsider.com/where-did-slack-get-its-name-2016-9
+Slackは「Searchable Log of All Conversation and Knowledge（すべての会話と知識の検索可能なログ）の略である」
+確かに、SlackのCEOがTwitterで言っている
+https://twitter.com/stewart/status/780906639301812225
+「Searchable Log of All Conversation and Knowledge,略してSlack、どう？」
+「でもSlackって、意味が良くなくね？」
+「僕たちのユーザーはみんなSlackじゃないの？」
+「ええっ！？」
+「まあまあ、単なるコードネームだから」
+
+ちなみに、Slackの証券コード（Ticker　Symbol）は「WORK」です。
+ゆたっとした感じを醸し出しつつ、実はしっかり仕事している、という感じでしょうかね。
+
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+--------
+AUTHOR: Hironobu Mori
+TITLE: Chief Happiness Officer
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 1
+ALLOW PINGS: 0
+PRIMARY CATEGORY:
+CATEGORY: Chief Happiness Officer
+DATE: 08/16/2020 14:02:28
+-----
+BODY:
+今月から、職場のChief Happiness Officerを自称するに至りました。
+しかし
+
+https://en.wikipedia.org/wiki/Chief_Happiness_Officer
+「企業におけるChief Happniess Officerは、働く人の幸せをマネジメントする役割です」といわれても、漠然としていて何からどう考えて行けばよいのか、です。
+
+そこで、これから「Build to Last」（しっかりしたものをつくる）のコンセプトに基づき、付け焼き刃ではなく、このテーマについてできるだけ体系的、網羅的に整理し、ここで皆さんと共有して参りたいと思います。
+一足飛びに結論を目指すのではなく、まずは、温故知新ということで、来週から、働く人のモチベーション理論の歴史について、ふりかえってみる予定です。お楽しみに。
+
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+--------
+
